@@ -18,7 +18,7 @@ def reduce(array,f=0)
   if total==false 
     return false
   end
-  total+f
+  total
 end
 
 
